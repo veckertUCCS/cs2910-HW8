@@ -1,1 +1,2 @@
 # cs2910-HW8
+For this homework assignment, we were instructed to read an article from MDN about JavaScript frameworks tailored for developing client-side web applications. At the end of the article is a list of five different frameworks with links to associated MDN tutorals for creating a To-Do list application in the browser. Among the five options, I selected the React tutorial to work with, the source code for which is provided in this repository.
